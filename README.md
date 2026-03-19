@@ -4,7 +4,7 @@
 
 <h3 align="center">
 Hey there! I'm Shivam — a curious mind who enjoys working with data and uncovering the insights hidden inside it.  
-I like building things, breaking them (sometimes 😅), and figuring out how to improve them.  
+I like building things, breaking them, and figuring out how to improve them.  
 
 I have a strong interest in data analytics, machine learning, and solving real-world problems using data.
 I enjoy exploring datasets, creating dashboards, and building models that actually make sense in practical scenarios.
