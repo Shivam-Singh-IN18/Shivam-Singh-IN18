@@ -13,7 +13,7 @@ Always learning, always experimenting — welcome to my GitHub 🚀
 
 </h3>
 
-<img align="right" alt="Data" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-left: 20px;" />
+<img align="right" alt="Data" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-left: 20px;" />
 
 ---
 
